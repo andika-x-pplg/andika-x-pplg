@@ -1,10 +1,10 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Andika Esda Saputra
+</h1>
 
-# 👋 Hello, I'm Andika Esda Saputra
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=900&height=70&lines=Flutter+Developer+📱;Web+Developer+🌐;Laravel+Enthusiast+🚀;Building+Awesome+Projects+💻;Welcome+To+My+GitHub+Profile+✨" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=Flutter+Developer;Web+Developer;PHP+%7C+MySQL+%7C+Laravel;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+</p>
 
 🎓 Student from Indonesia  
 💻 Flutter Developer & Web Developer  
